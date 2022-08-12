@@ -32,7 +32,7 @@ Through this exercise, I have discovered that the majority of the search traffic
  
 Additionally we have discovered that the busiest day from a sales stanpoint is Wednesday:
   
-  ![Sales_by_Day](Images/KMeans_crypto_clustering.png)
+  ![Sales_by_Day](Images/sales_trend.png)
   
 Overall I can certainly see the value of developing these types of forecasts, but the structure used this time around was quite frustrating to work with.  
 
